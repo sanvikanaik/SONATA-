@@ -1,0 +1,9 @@
+# secrets and local data: never commit these
+.env
+.env.local
+vector/chroma_data/
+.venv/
+venv/
+__pycache__/
+node_modules/
+.next/
